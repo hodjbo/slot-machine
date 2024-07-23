@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: slot-machine
+server:
+  port: 8081
+accumulation:
+  service:
+    id: accumulation-service
