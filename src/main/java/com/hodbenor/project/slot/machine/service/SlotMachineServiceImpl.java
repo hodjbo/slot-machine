@@ -50,6 +50,6 @@ public class SlotMachineServiceImpl implements SlotMachineService {
 
     private int randomSpin() {
 
-        return 57;///(int) ((Math.random() * 10));
+        return (int) ((Math.random() * 10));
     }
 }
